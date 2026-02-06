@@ -1,0 +1,24 @@
+# Core Dependencies
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+streamlit==1.40.0
+pydantic==2.10.0
+python-multipart==0.0.12
+
+# Autogen Framework 0.4
+autogen-agentchat==0.4.0
+autogen-ext[openai]==0.4.0
+
+# Research & Data Processing
+requests==2.32.3
+beautifulsoup4==4.12.3
+pypdf2==3.0.1
+
+# OpenAI (for Azure OpenAI)
+openai>=1.54.0
+
+# Database
+sqlalchemy==2.0.36
+
+# Utilities
+python-dotenv==1.0.1
